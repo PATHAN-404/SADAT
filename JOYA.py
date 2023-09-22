@@ -150,13 +150,13 @@ device = {
         'fbca':fbca,
         'fbdm':fbdm}
 
-logo=("""\033[1;91m
-                    d88b  .d88b.  db    db  .d8b.  
-                    `8P' .8P  Y8. `8b  d8' d8' `8b 
-                     88  88    88  `8bd8'  88ooo88 
-                     88  88    88    88    88~~~88 
-                 db. 88  `8b  d8'    88    88   88 
-                 Y8888P   `Y88P'     YP    YP   YP \033[1;32m       XD
+logo=("""\033[1;31m
+             d88b  .d88b.  db    db  .d8b.  
+             `8P' .8P  Y8. `8b  d8' d8' `8b 
+              88  88    88  `8bd8'  88ooo88 
+              88  88    88    88    88~~~88 
+          db. 88  `8b  d8'    88    88   88 
+          Y8888P   `Y88P'     YP    YP   YP \033[1;32m  XD
 \033[1;37m------------------------------------------------------
 \033[1;33m[~]\033[1;31m Author   : FriNce Sadat & Farhad Joya
 \033[1;33m[~]\033[1;31m Facebook : FriNce Sadat & Farhad Joya
