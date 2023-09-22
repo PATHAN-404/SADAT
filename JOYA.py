@@ -151,22 +151,19 @@ device = {
         'fbdm':fbdm}
 
 logo=("""\033[1;91m
-                          oooo   .oooooo.   oooooo   oooo       .o.       
-                          `888  d8P'  `Y8b   `888.   .8'       .888.      
-                           888 888      888   `888. .8'       .8"888.     
-                           888 888      888    `888.8'       .8' `888.    
-                           888 888      888     `888'       .88ooo8888.   
-                           888 `88b    d88'      888       .8'     `888.  
-                       .o. 88P  `Y8bood8P'      o888o     o88o     o8888o 
-                      `Y888P                                                                                              
-{WHITE}\033[1;37m-------------------------------------------------------------------
-\033[1;35m[~]{WHITE} Author   : FriNce Sadat & Farhad Joya
-\033[1;35m[~]{WHITE} Facebook : FriNce Sadat & Farhad Joya
-\033[1;35m[~]{WHITE} Tool     : Free
-\033[1;35m[~]{WHITE} Version  : 30.0
-\033[1;37m-----------------------------------------------------------------""")
-def linex():
-	print('\033[1;37m-----------------------------------------------------------------')
+                  d88b  .d88b.  db    db  .d8b.  
+                  `8P' .8P  Y8. `8b  d8' d8' `8b 
+                   88  88    88  `8bd8'  88ooo88 
+                   88  88    88    88    88~~~88 
+               db. 88  `8b  d8'    88    88   88 
+               Y8888P   `Y88P'     YP    YP   YP \033[1;32m       XD
+\033[1;37m------------------------------------------------------
+\033[1;33m[~]\033[1;33m Author   : FriNce Sadat & Farhad Joya
+\033[1;33m[~]\033[1;33m Facebook : FriNce Sadat & Farhad Joya
+\033[1;33m[~]\033[1;33m Tool     : Free
+\033[1;33m[~]\033[1;33m Version  : 30.0
+\033[1;37m------------------------------------------------------""")
+def linex():------------------------------------------------------')
 def clear():
 	os.system('clear')
 	print(logo)
@@ -1601,4 +1598,3 @@ except requests.exceptions.ConnectionError:
 	print('\n No internet connection ...')
 	exit()
 except:exit()
-  
